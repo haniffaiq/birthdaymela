@@ -1,0 +1,25 @@
+.bg-card {
+    background-color: #eeede7;
+}
+
+.circle-image {
+    border-radius: 100%;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.header-text{
+    
+    font-family: 'Pacifico', cursive;
+}
+
+.ucapan{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Patrick Hand', cursive;
+    text-align: justify;
+}
