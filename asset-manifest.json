@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/haniffaiq/birthdaymela/static/css/main.a3c98c17.css",
-    "main.js": "/haniffaiq/birthdaymela/static/js/main.13ff8372.js",
-    "static/js/787.00c8c088.chunk.js": "/haniffaiq/birthdaymela/static/js/787.00c8c088.chunk.js",
-    "static/media/1.jpg": "/haniffaiq/birthdaymela/static/media/1.dcf0f2e0d09175d0e9bd.jpg",
-    "static/media/3.jpg": "/haniffaiq/birthdaymela/static/media/3.f910d284cf746ea8d5e7.jpg",
-    "static/media/4.jpg": "/haniffaiq/birthdaymela/static/media/4.27ce18d7af93ca1cbead.jpg",
-    "static/media/2.jpg": "/haniffaiq/birthdaymela/static/media/2.b53ccd2d938b813d70c6.jpg",
-    "index.html": "/haniffaiq/birthdaymela/index.html",
-    "main.a3c98c17.css.map": "/haniffaiq/birthdaymela/static/css/main.a3c98c17.css.map",
-    "main.13ff8372.js.map": "/haniffaiq/birthdaymela/static/js/main.13ff8372.js.map",
-    "787.00c8c088.chunk.js.map": "/haniffaiq/birthdaymela/static/js/787.00c8c088.chunk.js.map"
+    "main.css": "/birthdaymela/static/css/main.a3c98c17.css",
+    "main.js": "/birthdaymela/static/js/main.9853d78b.js",
+    "static/js/787.00c8c088.chunk.js": "/birthdaymela/static/js/787.00c8c088.chunk.js",
+    "static/media/1.jpg": "/birthdaymela/static/media/1.dcf0f2e0d09175d0e9bd.jpg",
+    "static/media/3.jpg": "/birthdaymela/static/media/3.f910d284cf746ea8d5e7.jpg",
+    "static/media/4.jpg": "/birthdaymela/static/media/4.27ce18d7af93ca1cbead.jpg",
+    "static/media/2.jpg": "/birthdaymela/static/media/2.b53ccd2d938b813d70c6.jpg",
+    "index.html": "/birthdaymela/index.html",
+    "main.a3c98c17.css.map": "/birthdaymela/static/css/main.a3c98c17.css.map",
+    "main.9853d78b.js.map": "/birthdaymela/static/js/main.9853d78b.js.map",
+    "787.00c8c088.chunk.js.map": "/birthdaymela/static/js/787.00c8c088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3c98c17.css",
-    "static/js/main.13ff8372.js"
+    "static/js/main.9853d78b.js"
   ]
 }
